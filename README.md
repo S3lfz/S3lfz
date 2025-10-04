@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.discordapp.net/attachments/1421976148329627689/1423876455422754847/Screenshot_2025-05-26_035601-1.png?ex=68e1e7c9&is=68e09649&hm=0ecd95d97a09b1df244d8d5f5782934bebabaf34b0df729fb0709cfe234fd917&=&width=743&height=423" alt="Profile Image" width="300"/>
+  <img src="https://media.discordapp.net/attachments/1423372404629049414/1424160670944854126/ozxt.png?ex=68e2f07b&is=68e19efb&hm=bfaa2fa295169cbd3fba5a7f908d605ded1b0769fa3ef3ace42a08663a3c5f67&=&width=669&height=381" alt="Profile Image" width="300"/>
   <h2 style="color:red;">☠️ Pwned By Inferz ϟ</h2>
   <p align="center">
     <a href="https://youtube.com/@selfwashere"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
