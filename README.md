@@ -5,9 +5,9 @@
 </div>
   
   <p align="center">
-    <a href="https://youtube.com/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-    <a href="https://tiktok.com/"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
-    <a href="https://discord.gg/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-    <a href="https://tupagina.com"><img src="https://img.shields.io/badge/Inferz-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Inferz"/></a>
+    <a href="https://youtube.com/selfwashere"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+    <a href="https://tiktok.com/gassed.wsh"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
+    <a href="https://discord.gg/ifz"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+    <a href="https://www.inferz.pw/"><img src="https://img.shields.io/badge/Inferz-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Inferz"/></a>
   </p>
 </div>
